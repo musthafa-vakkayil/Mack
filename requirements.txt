@@ -1,5 +1,0 @@
-streamlit
-keras
-tensorflow-cpu
-numpy
-PIL
