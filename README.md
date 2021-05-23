@@ -1,5 +1,6 @@
 # Mack
-Mango and Jackfruit Classifier 
+Mango and Jackfruit Classifier - Its basically a web app that predicts if the uploaded picture is that of a mango or jackfruit.
+We have trained a CNN model and tested it and obtained a model with good accuracy. We created a web app (frontend) using streamlit.  
 
 Binary image classifier to classify Mango and JackFruit
 
